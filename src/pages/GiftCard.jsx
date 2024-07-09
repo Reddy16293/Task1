@@ -109,9 +109,9 @@ const GiftCard = () => {
         <h1 className='font-bold'>Received a gift card?</h1>
         <h1>
         Earns 2★Stars per $1</h1>
-        <button className='bg-black text-white py-1 px-1 rounded hover:bg-green'> Add or Reload</button>
+        <button className='bg-black text-white py-1 px-2 rounded hover:bg-green'> Add or Reload</button>
         
-        <button className='bg-black text-white py-1 px-1 rounded hover:bg-green'> Check Balance </button>
+        <button className='bg-black text-white py-1 px-2 rounded hover:bg-green'> Check Balance </button>
          </div>
 
 

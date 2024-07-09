@@ -19,10 +19,10 @@ const Navbar = () => {
         <Link to="/find-store" className='text-lg font-medium text-gray-700 hover:text-green-600'>Find a store</Link>
 
         {/* Replace Sign In and Sign Up links with buttons */}
-        <button className='text-md font-medium text-gray-700 hover:text-green-600 border border-gray-400 px-4 py-2 rounded-lg'>
+        <button className='text-md font-medium bg-green text-white text-gray-700 hover:text-green-600 border border-gray-400 px-4 py-2 rounded-[30px]'>
           <Link to="/signin">Sign In</Link>
         </button>
-        <button className='text-md font-medium text-gray-700 hover:text-green-600 border border-gray-400 px-4 py-2 rounded-lg'>
+        <button className='text-md bg-black text-white font-medium text-gray-700 hover:text-green-600 border border-gray-400 px-4 py-2 rounded-[30px]'>
           <Link to="/signup">Sign Up</Link>
         </button>
       </div>
